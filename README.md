@@ -12,20 +12,13 @@ Me chamo Felipe Alves Coelho Vieira, tenho 20 anos e sou natural de São Paulo. 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -37,13 +30,41 @@ Me chamo Felipe Alves Coelho Vieira, tenho 20 anos e sou natural de São Paulo. 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+          
 <br/>
 <br/>
 
