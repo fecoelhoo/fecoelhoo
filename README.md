@@ -1,6 +1,6 @@
 # Felipe Coelho
 
-**`Desenvolvedor Backend`**
+**`Qualidade de Sfotware`**
 
 Me chamo Felipe Alves Coelho Vieira, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Inforrmação na Anhembi Morumbi. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus projetos pessoais e Linkedin.
 
